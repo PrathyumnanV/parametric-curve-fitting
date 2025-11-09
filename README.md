@@ -344,11 +344,11 @@ If you encounter issues:
 
 ## Author
 
-FLAM Interview Candidate
+PRATHYUMNAN V
 
 ## License
 
-This project is submitted as part of an academic assessment.
+This project is submitted as part of an FLAM assessment.
 
 ---
 
