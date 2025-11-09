@@ -77,7 +77,7 @@ M sensitivity:     0.094717 (Well-identified)
 θ sensitivity:     0.052896 (Well-identified)
 ```
 
-### Desmos Format (Copy-Paste Ready)
+### Desmos Format
 
 ```
 x(t)=t+0.9999984769-e^(0.049*abs(t))*sin(0.3*t)*0.0017453284+58.1333379343
